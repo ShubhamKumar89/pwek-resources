@@ -4,7 +4,7 @@
 
 [Smart-Edge-Open](https://smart-edge-open.github.io/ido-specs/doc/reference-architectures/smartedge-open-experience-kit-pwek-all-in-one/)
 
-[IntelSmartEdge](https://intelsmartedge.github.io/docs/experience-kits/private-wireless-experience-kit/#split-network-enabling)
+[IntelSmartEdge](https://intelsmartedge.github.io/docs/experience-kits/private-wireless-experience-kit/)
 
 ## Github Orgs
 
