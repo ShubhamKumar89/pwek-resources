@@ -14,7 +14,7 @@
 
 [Smart-Edge-Open](https://github.com/orgs/smart-edge-open/repositories) 
 
-## Github repositories
+## Github Repositories
 
 [ESP](https://github.com/intel/Edge-Software-Provisioner)
 
