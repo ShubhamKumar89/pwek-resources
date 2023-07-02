@@ -28,6 +28,7 @@
 
 [rni-profile-base-rancheros](https://github.com/intel/rni-profile-base-rancheros)
 
+[Network Functions](https://github.com/smart-edge-open/edgeapps/tree/master/network-functions)
 
 ## Other Links
 
